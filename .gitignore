@@ -1,2 +1,6 @@
 /production/backups
 LM5145_ExtVCC.zip
+*.lck
+fp-info-cache
+/Drone_LM5145-backups
+fabrication-toolkit-options.json

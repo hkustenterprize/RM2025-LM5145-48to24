@@ -9031,7 +9031,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "100n"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "49b19787-b49c-4424-8344-fca915bb8aa9")
@@ -12842,7 +12842,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "220u"
+		(property "Value" "220uF 35V"
 			(at 1.75 -5.25 90)
 			(layer "B.Fab")
 			(uuid "32101f48-1a6b-4c19-bb5e-ac5433d576e5")
@@ -14846,7 +14846,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "220u"
+		(property "Value" "220uF 35V"
 			(at 1.75 -5.25 90)
 			(layer "B.Fab")
 			(uuid "041bcdd2-2566-4f99-81ec-35a55f700ed7")
@@ -16610,7 +16610,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "100uF 63V"
 			(at 1.75 -5.25 -90)
 			(layer "B.Fab")
 			(uuid "d2fd2e54-d4e8-4961-9d85-6981410c6450")
@@ -18374,7 +18374,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "220u"
+		(property "Value" "100uF 63V"
 			(at 1.75 -5.25 -90)
 			(layer "B.Fab")
 			(uuid "a6cd20d4-b064-4c01-9947-3ec6e1023aeb")
